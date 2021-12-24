@@ -2,6 +2,7 @@ export { default as AppBar } from "@material-ui/core/AppBar";
 export { default as Avatar } from "@material-ui/core/Avatar";
 export { default as Badge } from "@material-ui/core/Badge";
 export { default as Box } from "@material-ui/core/Box";
+export { default as Button } from "@material-ui/core/Button";
 export { default as Checkbox } from "@material-ui/core/Checkbox";
 export { default as Chip } from "@material-ui/core/Chip";
 export { default as Container } from "@material-ui/core/Container";
